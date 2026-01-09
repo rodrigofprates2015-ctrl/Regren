@@ -1,0 +1,78 @@
+https://regren.com.br/
+Vamos criar uma nova proposta de site para essa empresa:
+
+https://regren.com.br/
+Vamos criar uma nova proposta de site para essa empresa:
+
+APRESENTAÇÃO REGREN
+ 
+Atuamos a mais de 20 anos desenvolvendo soluções com foco na Industria,  nas aréas de MANUTENÇÃO e PROJETOS,  para redução de custo e aumento da confiabilidade e produtividade, elaboramos  PROJETOS em 3D para customização de equipamentos conforme necessidade do nosso cliente. Contamos com uma infraestrutura robusta e equipe técnica preparada para atender o mercado dinâmico e competitivo, com soluções criativas de engenharia, eficazes com preço justo e prontos para atender a necessidade de sua empresa.
+ 
+MISSÃO
+Oferecer serviços e soluções inovadoras de engenharia e manutenção com qualidade e flexibilidade, prestados com ética, respeito e honestidade.
+ 
+POLÍTICA DE QUALIDADE
+Buscar a satisfação do cliente assegurando a qualidade e pontualidade nos serviços, aperfeiçoando os recursos humanos, buscando aprimoramento e melhoria contínua dos processos e eficácia produtiva e financeira.
+NOSSAS INSTALAÇÕES
+
+
+
+Oferecemos tudo o que você precisa em soluções de reparos e Projetos Industriais!  
+
+FALE CONOSCO
+Se você tem qualquer sugestão, dúvida ou reclamação, entre em contato conosco. É só preencher os campos ao lado e aguardar nosso contato, que será feito o mais rápido possível. 
+Não se preocupe, temos uma equipe qualificada que está disponível para te ajudar de todas as formas! 
+
+
+
+
+
+
+
+Enviar
+REGREN ENGENHARIA E SOLUÇÕES IND.
+Rod. Alberto Hinoto 7072 – Galpão Nº 100  Bairro Cuiabá
+CEP 08597-690 – Itaquaquecetuba – SP
+Fone: 11 - 4647-8871 
+E-mail rsipan@gruporegren.com
+ 
+https://goo.gl/maps/zcgexGCWE4Z8iJPx8
+
+logo: https://yata-apix-8c3dfe57-abcf-4b2a-99a6-196809bbe497.s3-object.locaweb.com.br/0ced70c43d3545738a09dfdb6ba24766.jpg
+
+
+ Criei um site de página única (Single Page Application) que melhora drasticamente a apresentação da empresa, mantendo todas as informações originais. Aqui estão os destaques:
+
+Identidade Visual Industrial:
+
+Utilizei uma combinação de azul marinho (slate-900), azul royal (blue-600) e cinza claro. Essas cores transmitem seriedade, engenharia e segurança.
+
+A tipografia é limpa e moderna, facilitando a leitura técnica.
+
+Seção Hero (Topo):
+
+Uma imagem de fundo industrial com sobreposição escura para destacar o texto.
+
+Chamada Principal: "Soluções de Engenharia & Manutenção Industrial".
+
+Destaque: Um selo de "Há mais de 20 anos no mercado" para gerar autoridade imediata.
+
+Organização do Conteúdo:
+
+Sobre: Separei o texto corrido em blocos digeríveis. A "Missão" e a "Política de Qualidade" ganharam cartões destacados com ícones, facilitando a leitura rápida.
+
+Serviços: Transformei a lista de serviços em "Cards" com ícones grandes (Engrenagem, Ferramenta, Fábrica), tornando visualmente claro o que a empresa faz.
+
+Instalações: Criei uma galeria placeholder moderna onde podemos inserir fotos reais do galpão e maquinário.
+
+Contato e Localização:
+
+O formulário está limpo e convidativo.
+
+As informações de contato estão organizadas com ícones.
+
+Para o mapa, criei um botão visual "Abrir no Google Maps" que evita problemas de carregamento de iframe e leva o usuário diretamente para o aplicativo de mapas no celular ou desktop.
+
+Responsividade:
+
+O site funciona perfeitamente em celulares (menu hambúrguer) e desktops.
