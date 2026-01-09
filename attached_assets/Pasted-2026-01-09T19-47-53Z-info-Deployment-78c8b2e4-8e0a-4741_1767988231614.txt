@@ -1,0 +1,66 @@
+2026-01-09T19:47:53Z info: Deployment: 78c8b2e4-8e0a-4741-9169-46ad34b6473a
+2026-01-09T19:47:53Z info: Running Security Scan
+2026-01-09T19:47:59Z info: Security Scan Complete
+2026-01-09T19:47:59Z info: Connecting to builder
+2026-01-09T19:48:00Z info: Builder connected
+2026-01-09T19:48:00Z info: Installing packages
+--> npm install
+
+
+up to date, audited 388 packages in 3s
+
+npm notice
+npm notice New major version of npm available! 10.8.2 -> 11.7.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.7.0
+npm notice To update run: npm install -g npm@11.7.0
+npm notice
+
+2026-01-09T19:48:03Z info: Starting Build
+
+> rest-express@1.0.0 build
+> tsx script/build.ts
+
+
+building client...
+
+vite v7.3.1 building client environment for production...
+
+transforming...
+
+✓ 1828 modules transformed.
+
+rendering chunks...
+
+[meta-images] using internal app domain: https://regren--rodrigodsad6.replit.app
+
+computing gzip size...
+
+../dist/assets/index-BOaqT4lO.css  109.05 kB │ gzip:  17.90 kB
+../dist/assets/index-BgG1Bf6-.js   368.08 kB │ gzip: 118.04 kB
+
+building server...
+
+▲ [WARNING] "import.meta" is not available with the "cjs" output format and will be empty [empty-import-meta]
+
+    server/static.ts:7:35:
+      7 │   const __filename = fileURLToPath(import.meta.url);
+        ╵                                    ~~~~~~~~~~~
+
+  You need to set the output format to "esm" for "import.meta" to work correctly.
+
+
+1 warning
+
+  dist/index.cjs  828.9kb
+
+⚡ Done in 192ms
+
+2026-01-09T19:48:16Z info: Pushing pid1 binary layer...
+2026-01-09T19:48:17Z info: Pushing Repl layer...
+2026-01-09T19:48:18Z info: Created hosting layer
+2026-01-09T19:48:19Z info: Created pid1 binary layer
+2026-01-09T19:48:31Z info: Created Repl layer
+2026-01-09T19:48:34Z info: Pushed image manifest
+2026-01-09T19:48:35Z info: Pushed soci index manifest
+2026-01-09T19:48:43Z info: Creating Autoscale service
+2026-01-09T19:49:53Z error: The deployment is failing health checks. This can happen if the application isn't responding, responds with an error, or doesn't respond in time. Health checks are sent to the / endpoint by default and must respond as soon as possible. Make sure that the / endpoint is implemented and returns a 200 status code in a timely manner. Avoid doing expensive or long running operations on the / endpoint, prefer deferring them to a different route. Check the logs for more information.
